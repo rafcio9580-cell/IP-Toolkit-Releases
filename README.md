@@ -3,8 +3,10 @@
 ## OPIS
 Narzędzie do szybkiej rekonfiguracji IPv4 kart sieciowych w systemach Windows.
 
+Program dostępny w dwóch wersjach, "Lite" oraz "self-contained"
+
 Wersja "Lite" nie zawiera implementacji pakietu .NET<br/>
-Jeżeli nie masz, lub nie chcesz instalować dodatkowych pakietów, pobierz wersję "self-contained"
+Jeżeli nie posiadasz, lub nie chcesz instalować dodatkowych pakietów, pobierz wersję "self-contained"
 
 
 ## CHANGELOG
