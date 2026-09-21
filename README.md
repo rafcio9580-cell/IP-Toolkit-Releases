@@ -1,5 +1,12 @@
 # IPToolkit Changelog
 
+### [1.4.0] - 2026-09-21
+- Dodano możliwość zmiany adresu MAC wybranej karty sieciowej.
+
+- Poprawki błędów i usprawnienia w działaniu niektórych funkcji.
+
+
+
 ### [1.3.0] - 2026-09-19
 
 - Dodano możliwość szybkiego kopiowania, wklejania i usuwania w polach IP.
