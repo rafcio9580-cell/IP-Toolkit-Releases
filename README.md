@@ -1,6 +1,8 @@
 # IPToolkit
 
 ## OPIS
+Narzędzie do szybkiej rekonfiguracji adresów IPv4 kart sieciowych w systemach Windows.
+
 
 
 ## CHANGELOG
