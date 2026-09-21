@@ -2,7 +2,7 @@
 
 
 
-# CHANGELOG:
+## CHANGELOG:
 
 ### [1.4.0] - 2026-09-21
 - Dodano możliwość zmiany adresu MAC wybranej karty sieciowej.
