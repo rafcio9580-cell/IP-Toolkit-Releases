@@ -3,7 +3,7 @@
 ## OPIS
 Narzędzie do szybkiej rekonfiguracji IPv4 kart sieciowych w systemach Windows.
 
-# Wersja Lite nie zawiera pakietu .NET
+#### Wersja Lite nie zawiera pakietu .NET
 
 
 ## CHANGELOG
