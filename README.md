@@ -1,4 +1,4 @@
-# IPToolkit
+# IP Toolkit
 
 ## OPIS
 Narzędzie do szybkiej rekonfiguracji IPv4 kart sieciowych w systemach Windows.
